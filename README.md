@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning Cybersecurity, Bug Bounty
 - 👀 I’m interested in Offensive Security
 - 🚩 CTF Player (Major Category : Web Exploitation)
-
+- Part of Team 1nf1n1ty
